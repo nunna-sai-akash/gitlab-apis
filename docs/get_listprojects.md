@@ -87,4 +87,4 @@ Subgroup: Subgroup1 (ID: 12345)
 
 - Ensure that your GitLab token has the necessary permissions to access the group and its subgroups.
 - The script uses `jq` to parse JSON responses. Make sure `jq` is installed on your system.
-- Please find the code here:- [`get_listProjects.sh`](scripts/shell/get_listProjects.sh)
+- Please refer to:- [`get_listProjects.sh`](../scripts/shell/get_listProjects.sh)
